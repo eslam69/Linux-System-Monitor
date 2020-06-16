@@ -23,6 +23,7 @@ CMakeFiles/monitor.dir/src/ncurses_display.cpp.o: ../src/ncurses_display.cpp
 CMakeFiles/monitor.dir/src/process.cpp.o: ../include/process.h
 CMakeFiles/monitor.dir/src/process.cpp.o: ../src/process.cpp
 
+CMakeFiles/monitor.dir/src/processor.cpp.o: ../include/linux_parser.h
 CMakeFiles/monitor.dir/src/processor.cpp.o: ../include/processor.h
 CMakeFiles/monitor.dir/src/processor.cpp.o: ../src/processor.cpp
 

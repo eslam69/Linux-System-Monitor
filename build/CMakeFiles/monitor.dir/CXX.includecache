@@ -6,47 +6,15 @@
 
 #IncludeRegexTransform: 
 
-../include/linux_parser.h
-fstream
--
-regex
--
+../include/format.h
 string
 -
 
-../include/process.h
+/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.cpp
 string
 -
-
-../include/processor.h
-
-../include/system.h
-string
+stdio.h
 -
-vector
--
-process.h
-../include/process.h
-processor.h
-../include/processor.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.cpp
-unistd.h
--
-cstddef
--
-set
--
-string
--
-vector
--
-process.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/process.h
-processor.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/processor.h
-system.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.h
-linux_parser.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.h
+format.h
+/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.h
 
