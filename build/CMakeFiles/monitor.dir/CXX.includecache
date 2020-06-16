@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../include/format.h
-string
--
-
 ../include/linux_parser.h
 fstream
 -
@@ -18,14 +14,6 @@ regex
 string
 -
 
-../include/ncurses_display.h
-curses.h
--
-process.h
-../include/process.h
-system.h
-../include/system.h
-
 ../include/process.h
 string
 -
@@ -41,66 +29,6 @@ process.h
 ../include/process.h
 processor.h
 ../include/processor.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.cpp
-string
--
-format.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.cpp
-dirent.h
--
-unistd.h
--
-string
--
-vector
--
-linux_parser.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/main.cpp
-ncurses_display.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/ncurses_display.h
-system.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/ncurses_display.cpp
-curses.h
--
-chrono
--
-string
--
-thread
--
-vector
--
-format.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.h
-ncurses_display.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/ncurses_display.h
-system.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/process.cpp
-unistd.h
--
-cctype
--
-sstream
--
-string
--
-vector
--
-process.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/process.h
-
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/processor.cpp
-processor.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/processor.h
 
 /home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.cpp
 unistd.h
@@ -119,4 +47,6 @@ processor.h
 /home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/processor.h
 system.h
 /home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/system.h
+linux_parser.h
+/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.h
 

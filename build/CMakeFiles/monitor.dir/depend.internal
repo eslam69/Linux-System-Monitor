@@ -27,6 +27,7 @@ CMakeFiles/monitor.dir/src/processor.cpp.o
  ../include/processor.h
  /home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/processor.cpp
 CMakeFiles/monitor.dir/src/system.cpp.o
+ ../include/linux_parser.h
  ../include/process.h
  ../include/processor.h
  ../include/system.h
