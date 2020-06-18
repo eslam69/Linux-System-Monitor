@@ -6,7 +6,6 @@
 using std::string;
 using std::to_string;
 
-// DONE: Complete this helper function
 // INPUT: Long int measuring seconds
 // OUTPUT: HH:MM:SS
 string Format::ElapsedTime(long seconds)

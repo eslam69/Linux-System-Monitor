@@ -6,15 +6,23 @@
 
 #IncludeRegexTransform: 
 
-../include/format.h
+../include/linux_parser.h
+fstream
+-
+regex
+-
 string
 -
 
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.cpp
+/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.cpp
+dirent.h
+-
+unistd.h
+-
 string
 -
-stdio.h
+vector
 -
-format.h
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/format.h
+linux_parser.h
+/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/src/linux_parser.h
 
