@@ -1,7 +1,7 @@
 # Linux-System-Monitor
-
-This is my second project for  udacity c++ nanodegree
+A Linux system monitor similar to htop that shows processes, PIDs, CPU and memory utilization, and much more.
 ![System Monitor](images/monitorGIF.gif)
+This is my second project for  udacity c++ nanodegree
 
 
 ## ncurses
