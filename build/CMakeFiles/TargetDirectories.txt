@@ -1,3 +1,0 @@
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/build/CMakeFiles/rebuild_cache.dir
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/build/CMakeFiles/edit_cache.dir
-/home/eslam/Documents/cpp nd/sysMonitor/Linux System Monitor/build/CMakeFiles/monitor.dir
